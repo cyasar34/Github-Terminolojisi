@@ -39,13 +39,18 @@ Türleri:
 <li>Uzak (Remote) Repo: GitHub, GitLab gibi bir bulut sunucusunda bulunur.</li><br>
 <em>Kısacası: Repository, projenizin tamamıdır.</em>
 
-#### Brach (Dal)
+#### Branch (Dal)
 
 <p align="justify"> Projenizin farklı versiyonlarını veya farklı özelliklerini birbirinden bağımsız ve paralel olarak geliştirmenizi sağlayan bir hat.<br> 
 Bir ağacın ana gövdesi (main branch) vardır. Siz yeni bir özellik üzerinde çalışmaya başladığınızda, bu gövdeden yeni bir dal (branch) oluşturursunuz. Ana gövdeyi bozmadan, risksiz bir şekilde daldaki çalışmanızı bitirirsiniz. İşiniz bittiğinde, bu dalı ana gövdeye birleştirirsiniz (merge).<br>
 <em>Kısacası: Branch, projenizin içinde açılmış paralel ve bağımsız bir çalışma alanıdır.</em>
 
+#### Clone (Klonlama)
 
+<p align="justify">Bir uzak depoyu (örneğin, GitHub'daki bir projeyi) tüm versiyon geçmişiyle birlikte kendi bilgisayarınıza kopyalama işlemidir.
+<em> git clone<repo-url> komutuyla yapılır.</em><br>
+Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.
+<em>Kısacası: Clone ile bilgisayarına indirirsin.</em>
 
 ## GitHub Depolarının (Repository) Özellikleri:
 <p align="justify">
