@@ -12,6 +12,21 @@
 <li>Aynı dosya üzerinde aynı anda çalışan insanların çakışmasını (conflict) yönetir.</li>
 <li>Kodları incelemeye, hata bildirmeye, tartışmaya olanak tanır.</li>
 
+### Neden GitHub Kullanmalıyız?
+
+<li><b> Güvenli Bulut Yedekleme:</b> Kodunuz ve tüm versiyon geçmişi bulutta saklanır. Bilgisayarınız bozulsa bile projeniz güvendedir.</li>
+
+<li><b> Zaman Makinesi:</b> Projenizin eski haline istediğiniz an dönebilir, kimin ne değişiklik yaptığını görebilirsiniz.</li>
+
+<li><b> Kolay İş Birliği: </b> Aynı proje üzerinde, aynı anda, dünyanın her yerinden ekip arkadaşlarınızla sorunsuzca çalışabilirsiniz.</li>
+
+<li><b> Proje Yönetimi: </b> Görev takibi (Issues), kod incelemesi (Pull Request) ve proje tahtaları (Projects) ile her şey organize olur.</li>
+
+<li> <b> Otomasyon (CI/CD): </b> Kodunuzu gönderdiğinizde testlerin otomatik çalışmasını ve sunucuya otomatik yüklenmesini sağlarsınız.</li>
+
+<li><b> Portfolyo & CV: </b> Hesabınız, işverenlere gösterdiğiniz canlı bir yetenek portfolyosudur. </li>
+
+<li> <b>Açık Kaynak Katkı: </b> Dünyadaki en büyük yazılım projelerine katkıda bulunmanın en kolay yoludur. </li>
 
 
 
