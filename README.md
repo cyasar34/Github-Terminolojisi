@@ -172,28 +172,28 @@ Types:
 A tree has a main trunk (main branch). When you start working on a new feature, you create a new branch from this trunk. You complete your work on the branch without disturbing the main trunk and without any risk. When you are done, you merge this branch back into the main trunk.<br>
 <em>In short: A branch is a parallel and independent workspace within your project.</em>
 
-#### Clone (Klonlama)
+#### Clone 
 
-<p align="justify">Bir uzak depoyu (örneğin, GitHub'daki bir projeyi) tüm versiyon geçmişiyle birlikte kendi bilgisayarınıza kopyalama işlemidir.
-<em> git clone "repo-url" komutuyla yapılır.</em>
-Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<br>
-<em>Kısacası: Clone ile bilgisayarına indirirsin.</em>
+<p align="justify">BCloning is the process of copying a remote repository (for example, a project on GitHub) to your own computer, along with its entire version history.
+<em> It is done with the command git clone “repo-url”.</em>
+It is similar to downloading a file from the cloud (Google Drive) to your own computer.<br>
+<em>In short: With clone, you download it to your computer.</em>
 
-#### Fork (Çatallama)
+#### Fork
 
-<p align="justify">Bir başkasının GitHub'daki reposunu kendi GitHub hesabınıza kopyalamaktır. GitHub arayüzündeki "Fork" butonuna tıklanarak yapılır. Bir belgeyi alıp "Farklı Kaydet" diyerek kendi adınızla kaydetmek gibidir. <br>
-<em>Kısacası: Fork ile GitHub hesabına kopyalarsın.</em>
+<p align="justify">Copying someone else's GitHub repository to your own GitHub account. This is done by clicking the “Fork” button on the GitHub interface. It's like taking a document and saving it under your own name by clicking “Save As.” <br>
+<em>In short: You copy it to your GitHub account with Fork.</em>
 
-#### Main (Ana Dal)
+#### Main
 
-<p align="justify">Bir projedeki ana, kararlı ve çalışan sürümün bulunduğu varsayılan branch'tir (dal). Eskiden master olarak adlandırılırdı. <br>
-<em>Kısacası:Main projenin ana gövdesidir. </em>
+<p align="justify">The default branch where the main, stable, and working version of a project is located. It used to be called master.  <br>
+<em>In short: Main is the main body of the project. </em>
 
-#### Pull (Çekme)
+#### Pull
 
-<p align="justify">Uzak depodaki (GitHub'daki) güncel değişiklikleri kendi yerel deponuza indirme işlemidir. Ekip çalışmasında, başkalarının yaptığı değişikliklerle yerel reponuzu güncel tutmak için.<br>
-<b>Komut: git pull</b><br>
-<em>Kısacası: Pull/Push senkronizasyon içindir.</em>
+<p align="justify">The process of downloading the latest changes from the remote repository (GitHub) to your local repository. In team work, this is to keep your local repository up to date with changes made by others.<br>
+<b>Command: git pull</b><br>
+<em>In short: Pull/Push is for synchronization.</em>
 
 #### Push (İtme)
 
