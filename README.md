@@ -216,31 +216,31 @@ It is similar to downloading a file from the cloud (Google Drive) to your own co
 <p align="justify">It is a request to merge the changes in a branch into the main branch. It provides a mechanism for code review, discussion, and testing.  <br>
 <em>In short: Pull Request is a collaboration and quality control mechanism.</em>
 
-#### Stash (Geçici Saklama)
+#### Stash (Temporary Storage)
 
-<p align="justify">Henüz commit etmediğiniz değişiklikleri geçici olarak bir kenara saklamanızı sağlar. Aniden başka bir branch'e geçmeniz gerektiğinde veya acil bir düzeltme yapmanız gerektiğinde, yarım kalan işinizi kaybetmeden saklarsınız.<br>
-<b>Komutlar:
-<li>git stash → Değişiklikleri saklar.</li>
-<li>git stash pop → Saklanan değişiklikleri geri yükler.</li></b><br>
-<em>Kısacası: Stash askıya alma işlemidir.</em>
+<p align="justify">Allows you to temporarily save changes you haven't committed yet. If you suddenly need to switch to another branch or make an urgent fix, you can save your unfinished work without losing it.<br>
+<b>Commands:
+<li>git stash → Saves changes.</li>
+<li>git stash pop → Restores saved changes.</li></b><br>
+<em>In short: Stash is a suspension process.</em>
 
-#### Discard (Atma)
+#### Discard
 
-<p align="justify">Commit edilmemiş değişiklikleri tamamen iptal etmek, dosyayı son commit haline geri döndürmek. Yaptığınız değişikliklerden memnun değilseniz ve baştan başlamak isterseniz.<br>
-<b>Komut: 
-<li>git restore "dosya-adi"</li>  
-<li>git checkout --"dosya-adi"</li></b><br>
-<em>Kısacası: Discard iptal etme işlemidir.</em>
+<p align="justify">Completely discards uncommitted changes, reverting the file to its last committed state. Use this if you are unhappy with your changes and want to start over.<br>
+<b>Commands: 
+<li>git restore “file-name”</li>  
+<li>git checkout --“file-name”</li></b><br>
+<em>In short: Discard is the undo operation.</em>
 
-#### Remote (Uzak)
+#### Remote 
 
-<p align="justify">Projenizin bulut sunucusunda (örn. GitHub, GitLab) bulunan kopyası. Ekip çalışması, yedekleme ve projeyi dağıtım için merkezi bir depo görevi görür.<b>origin</b> genelde projenizin GitHub'daki ana uzak deposunu ifade eder.<br>
-<em>Kısacası: Remote bulut işlevi görür.</em>
+<p align="justify">The copy of your project located on your cloud server (e.g., GitHub, GitLab). It serves as a central repository for teamwork, backup, and project distribution. <b>origin</b> usually refers to your project's main remote repository on GitHub.<br>
+<em>In short: Remote functions as your cloud.</em>
 
-#### Local (Yerel)
+#### Local
 
-<p align="justify">Projenizin kendi bilgisayarınızda bulunan kopyası. Geliştirme yapmak, test etmek ve değişiklikleri commit etmek için kullanırsınız.<br>
-<em>Kısacası: Local sizin makineniz işlevi görür.</em>
+<p align="justify">The copy of your project located on your own computer. You use it for development, testing, and committing changes.<br>
+<em>In short: Local functions as your machine.</em>
 
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
 - IEEE--> C. Yasar, "GitHub-Terminolojisi" GitHub, [Online]. Erişim Linki: https://github.com/cyasar34/GitHub-Terminolojisi Son Erişim Tarihi: Gün Ay Yıl.
