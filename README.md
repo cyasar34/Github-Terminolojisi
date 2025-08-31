@@ -8,38 +8,12 @@
 ### En Basit Haliyle: "Proje Dosyaları için Google Drive"
 
 <p align="justify">GitHub'ı, yazılım projelerinize özel bir Google Drive veya Dropbox gibi düşünebilirsiniz. Ancak çok daha akıllı ve güçlüdür:
-- **Sadece dosyaları saklamaz, her değişikliğin geçmişini de kaydeder.
-- **Aynı dosya üzerinde aynı anda çalışan insanların çakışmasını (conflict) yönetir.
-- **Kodları incelemeye, hata bildirmeye, tartışmaya olanak tanır.
+- **Sadece dosyaları saklamaz, her değişikliğin geçmişini de kaydeder.**
+- **Aynı dosya üzerinde aynı anda çalışan insanların çakışmasını (conflict) yönetir.**
+- **Kodları incelemeye, hata bildirmeye, tartışmaya olanak tanır.**
 
-## Git Nedir?
-- Bir bir versiyon kontrol sistemi VCS (Version Control System) yazılımıdır. Yani, yazılım projelerindeki dosya değişikliklerini takip etmenizi sağlar.
-- Git, projenizin geçmişini saklar ve farklı sürümler arasında geçiş yapmanıza imkan tanır.
-- Git, bir komut satırı aracı olarak çalışır, yani dosyalarınızı yerel olarak yönetirsiniz. İnternet bağlantısına gerek yoktur, ancak dosyalarınızı paylaşmak isterseniz uzak bir depoya yüklemeniz gerekir.
 
-## Github 
-<p align="justify">GitHub versiyon kontrol sistemleri için(örneğin Git) uzak bir depo(repository)dur. Uzak depo demek, bir havuz olarak da düşünülebilir. Birçok yazılımcının bir araya geldiği, bir projenin kopyası üzerinde çalışarak projenin alt sürümlerini çıkardığı ya da çeşitli ihtiyaçlarını giderdiği ve yaptığı değişikliği havuza gönderdiği bir sosyal kodlama alanıdır. </p>
 
-- GitHub, Git’in sunduğu sürüm kontrolü ve işbirliği özelliklerini bulut üzerinde erişilebilir hale getirir. Yazılım projelerinin yönetilmesi, paylaşılması, ekiplerin birlikte çalışması, açık kaynak yazılım geliştirme ve katkı sağlama gibi birçok özelliği içerir. GitHub, günümüzde yazılım dünyasında, açık kaynak geliştiricileri için en önemli araçlardan biri olmuştur.
- 
-## Github Hesabı Oluşturma
-
-<p align="justify">GitHub üzerinde repository oluşturabilmek için öncelikle bir GitHub hesabınızın olması gerekmektedir. Ücretsiz bir şekilde hesap oluşturabilirsiniz.</p>
-
-[Github Sayfası Linki](https://github.com/) ilgili sayfasından yeni üyelik oluşurabilirsiniz.
-
-## Github'ta Proje Yönetimi
-<p align="justify"> GitHub Repository (veya GitHub Deposu), proje dosyalarınızı (kodlar, dökümantasyon, görseller, vb.) barındıran bir alan olup, aynı zamanda Git ile sürüm kontrolü yapmanıza olanak tanır. GitHub depoları, her geliştiricinin projenin farklı sürümleriyle çalışmasına, değişiklikleri takip etmesine, katkıda bulunmasına ve başkalarıyla işbirliği yapmasına imkan verir. </p>
-<b>Github repository oluşturmak için aşağıdaki görseldeki işaretli alanlara tıklayabilirsiniz.</b>
-
-![Repository](https://github.com/cyasar34/Git-vs-Github/blob/main/repository_olusturma.jpg)
-
-<b> Yeni repository oluşturma ekranı</b>
-
-![Repository](https://github.com/cyasar34/Git-vs-Github/blob/main/repository_kayit.jpg)
-
-<p align="justify">Üst kısımda repository’inin sahibini ve repo’ya vereceğiniz ismin olduğu alan görülmektedir. Repo’ya isim olarak istediğinizi yazabilirsiniz. Bu alanların altında ise projenin kısa, basit bir açıklamasını yazabileceğiniz alan bulunmaktadır. Açıklama kısmının altında ise projenizin gizli (private) mı yoksa herkes tarafından görülebilir (public) mi olduğunu seçtiğiniz kısım bulunmaktadır. En altta ise README.md dosyası, .gitignore ve license için alanlar bulunmaktadır. Bu alanların seçimi kullanıcıya aittir ama seçmekte fayda bulunmaktadır. Create repository dediğiniz takdirde yeni bir repo oluşturmuş olacaksınız. 
-</p>
 
 ## GitHub Depolarının (Repository) Özellikleri:
 <p align="justify">
