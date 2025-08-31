@@ -107,7 +107,7 @@ Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<b
 
 #### Remote (Uzak)
 
-<p align="justify">Projenizin bulut sunucusunda (örn. GitHub, GitLab) bulunan kopyası. Ekip çalışması, yedekleme ve projeyi dağıtım için merkezi bir depo görevi görür.<br>
+<p align="justify">Projenizin bulut sunucusunda (örn. GitHub, GitLab) bulunan kopyası. Ekip çalışması, yedekleme ve projeyi dağıtım için merkezi bir depo görevi görür.<b>origin</b> genelde projenizin GitHub'daki ana uzak deposunu ifade eder.<br>
 <em>Kısacası: Remote bulut işlevi görür.</em>
 
 #### Local (Yerel)
@@ -115,12 +115,9 @@ Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<b
 <p align="justify">Projenizin kendi bilgisayarınızda bulunan kopyası. Geliştirme yapmak, test etmek ve değişiklikleri commit etmek için kullanırsınız.<br>
 <em>Kısacası: Local sizin makineniz işlevi görür.</em>
 
-
-
-
 ## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
-- IEEE--> C. Yasar, "Git-vs-Github" GitHub, [Online]. Erişim Linki: https://github.com/cyasar34/Git-vs-Github Son Erişim Tarihi: Gün Ay Yıl.
-- APA--> Yasar, C. (2024). Git-vs-Github[GitHub Deposu]. GitHub. Erişim Linki: https://github.com/cyasar34/Git-vs-Github Son Erişim Tarihi: Gün Ay Yıl.
+- IEEE--> C. Yasar, "GitHub-Terminolojisi" GitHub, [Online]. Erişim Linki: https://github.com/cyasar34/GitHub-Terminolojisi Son Erişim Tarihi: Gün Ay Yıl.
+- APA--> Yasar, C. (2024). GitHub-Terminolojisi[GitHub Deposu]. GitHub. Erişim Linki: https://github.com/cyasar34/GitHub-Terminolojisi Son Erişim Tarihi: Gün Ay Yıl.
   
 > **Proje Durumu:** İlgili dokümanların paylaşımı ders kapsamında gerçekleştirilmiştir. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. <br>
 > **Katkıda Bulunma:** Dokümanlarınızda kullanılacaksanız ilgili atıf yöntemlerini kullanmanız ve haber vermeniz çok önemlidir. <br>
