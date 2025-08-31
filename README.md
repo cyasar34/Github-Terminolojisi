@@ -1,7 +1,7 @@
 # GitHub Terminalojisi
 
 ## GitHub Nedir?
-<p align="justify"><b>Git,</b> projenizin her aşamasının bir "fotoğrafını" (commit) çeken ve istediğiniz zaman o fotoğraflara dönebilmenizi sağlayan bir zaman makinesi gibidir. <b>GitHub</b> ise bu fotoğraf albümlerini buluta yükleyip başkalarıyla paylaşabildiğiniz, birlikte düzenleyebildiğiniz bir sosyal platformdur.</p><br>
+<p align="justify"><b>Git,</b> projenizin her aşamasının bir "fotoğrafını" (commit) çeken ve istediğiniz zaman o fotoğraflara dönebilmenizi sağlayan bir zaman makinesi gibidir. <b>GitHub</b> ise bu fotoğraf albümlerini buluta yükleyip başkalarıyla paylaşabildiğiniz, birlikte düzenleyebildiğiniz bir sosyal platformdur.</p>
 <p align="justify"><b>Git,</b> bir versiyon kontrol sistemidir. Yerel bilgisayarınızda çalışır. Komut satırıyla çalışır.<br>
 <b>GitHub ise,</b> bu Git depolarınızı (repository) bulutta (internet üzerinde) saklamanızı sağlayan bir hizmet ve web sitesidir. Yani Git reposu için bir "ev sahibi" (host) görevi görür.</p>
 
