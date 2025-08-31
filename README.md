@@ -36,13 +36,13 @@
 <em>Projenizin için özel bir "klasör" ya da "proje dosyası" gibi düşünebilirsiniz.</em> Ancak bu klasör, dosyalarınızın yanı sıra yaptığınız her değişikliğin de kaydını tutan akıllı bir zaman makinesi gibidir.<br>
 Türleri:
 <li>Yerel (Local) Repo: Bilgisayarınızın hard disk'inde bulunur.</li>
-<li>Uzak (Remote) Repo: GitHub, GitLab gibi bir bulut sunucusunda bulunur.</li>
+<li>Uzak (Remote) Repo: GitHub, GitLab gibi bir bulut sunucusunda bulunur.</li><br>
 <em>Kısacası: Repository, projenizin tamamıdır.</em>
 
 #### Brach (Dal)
 
 <p align="justify"> Projenizin farklı versiyonlarını veya farklı özelliklerini birbirinden bağımsız ve paralel olarak geliştirmenizi sağlayan bir hat.<br> 
-Bir ağacın ana gövdesi (main branch) vardır. Siz yeni bir özellik üzerinde çalışmaya başladığınızda, bu gövdeden yeni bir dal (branch) oluşturursunuz. Ana gövdeyi bozmadan, risksiz bir şekilde daldaki çalışmanızı bitirirsiniz. İşiniz bittiğinde, bu dalı ana gövdeye birleştirirsiniz (merge).
+Bir ağacın ana gövdesi (main branch) vardır. Siz yeni bir özellik üzerinde çalışmaya başladığınızda, bu gövdeden yeni bir dal (branch) oluşturursunuz. Ana gövdeyi bozmadan, risksiz bir şekilde daldaki çalışmanızı bitirirsiniz. İşiniz bittiğinde, bu dalı ana gövdeye birleştirirsiniz (merge).<br>
 <em>Kısacası: Branch, projenizin içinde açılmış paralel ve bağımsız bir çalışma alanıdır.</em>
 
 
