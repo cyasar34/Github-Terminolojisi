@@ -242,7 +242,7 @@ It is similar to downloading a file from the cloud (Google Drive) to your own co
 <p align="justify">The copy of your project located on your own computer. You use it for development, testing, and committing changes.<br>
 <em>In short: Local functions as your machine.</em>
 
-## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
+## How to cite this GitHub post in IEEE and APA formats:
 - IEEE--> C. Yasar, "GitHub-Terminolojisi" GitHub, [Online]. Erişim Linki: https://github.com/cyasar34/GitHub-Terminolojisi Son Erişim Tarihi: Gün Ay Yıl.
 - APA--> Yasar, C. (2024). GitHub-Terminolojisi[GitHub Deposu]. GitHub. Erişim Linki: https://github.com/cyasar34/GitHub-Terminolojisi Son Erişim Tarihi: Gün Ay Yıl.
   
