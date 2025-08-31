@@ -48,8 +48,8 @@ Bir ağacın ana gövdesi (main branch) vardır. Siz yeni bir özellik üzerinde
 #### Clone (Klonlama)
 
 <p align="justify">Bir uzak depoyu (örneğin, GitHub'daki bir projeyi) tüm versiyon geçmişiyle birlikte kendi bilgisayarınıza kopyalama işlemidir.
-<em> git clone<repo-url> komutuyla yapılır.</em><br>
-Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.
+<em> git clone "repo-url" komutuyla yapılır.</em><br>
+Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<br>
 <em>Kısacası: Clone ile bilgisayarına indirirsin.</em>
 
 ## GitHub Depolarının (Repository) Özellikleri:
