@@ -87,6 +87,25 @@ Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<b
 <p align="justify">Bir branch'deki değişiklikleri, ana branch'e birleştirme talebi göndermektir. Kod incelemesi (code review) yapılması, tartışılması ve test edilmesi için bir mekanizma sağlar. <br>
 <em>Kısacası: Pull Request ise iş birliği ve kalite kontrol mekanizmasıdır.</em>
 
+#### Stash (Geçici Saklama)
+
+<p align="justify">Henüz commit etmediğiniz değişiklikleri geçici olarak bir kenara saklamanızı sağlar. Aniden başka bir branch'e geçmeniz gerektiğinde veya acil bir düzeltme yapmanız gerektiğinde, yarım kalan işinizi kaybetmeden saklarsınız.<br>
+<em>Kısacası: Stash askıya alma işlemidir.</em>
+
+#### Discard (Atma)
+
+<p align="justify">Commit edilmemiş değişiklikleri tamamen iptal etmek, dosyayı son commit haline geri döndürmek. Yaptığınız değişikliklerden memnun değilseniz ve baştan başlamak isterseniz.
+<em>Kısacası: Discard iptal etme işlemidir.</em>
+
+#### Remote (Uzak)
+
+<p align="justify">Projenizin bulut sunucusunda (örn. GitHub, GitLab) bulunan kopyası. Ekip çalışması, yedekleme ve projeyi dağıtım için merkezi bir depo görevi görür.<br>
+<em>Kısacası: Remote bulut işlevi görür.</em>
+
+#### Local (Yerel)
+
+<p align="justify">Projenizin kendi bilgisayarınızda bulunan kopyası. Geliştirme yapmak, test etmek ve değişiklikleri commit etmek için kullanırsınız.<br>
+<em>Kısacası: Local sizin makineniz işlevi görür.</em>
 
 
 
