@@ -13,7 +13,7 @@
 <li>Kodları incelemeye, hata bildirmeye, tartışmaya olanak tanır.</li>
 
 ### Neden GitHub Kullanmalıyız?
-
+<p align="justify">
 <li><b> Güvenli Bulut Yedekleme:</b> Kodunuz ve tüm versiyon geçmişi bulutta saklanır. Bilgisayarınız bozulsa bile projeniz güvendedir.</li>
 
 <li><b> Zaman Makinesi:</b> Projenizin eski haline istediğiniz an dönebilir, kimin ne değişiklik yaptığını görebilirsiniz.</li>
@@ -26,7 +26,7 @@
 
 <li><b> Portfolyo & CV: </b> Hesabınız, işverenlere gösterdiğiniz canlı bir yetenek portfolyosudur. </li>
 
-<li> <b>Açık Kaynak Katkı: </b> Dünyadaki en büyük yazılım projelerine katkıda bulunmanın en kolay yoludur. </li>
+<li> <b>Açık Kaynak Katkı: </b> Dünyadaki en büyük yazılım projelerine katkıda bulunmanın en kolay yoludur. </li></p>
 
 
 
