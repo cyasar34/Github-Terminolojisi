@@ -195,26 +195,26 @@ It is similar to downloading a file from the cloud (Google Drive) to your own co
 <b>Command: git pull</b><br>
 <em>In short: Pull/Push is for synchronization.</em>
 
-#### Push (İtme)
+#### Push (Pushing)
 
-<p align="justify">Yerel deponuzdaki commit'leri uzak depoya (GitHub'a) gönderme işlemidir. Yaptığınız değişiklikleri diğer ekip üyeleriyle paylaşmak veya yedeklemek için.<br>
-<b>Komut: git push</b><br>
-<em>Kısacası: Pull/Push senkronizasyon içindir.</em>
+<p align="justify">The process of sending commits from your local repository to the remote repository (GitHub). This is done to share your changes with other team members or to back them up.<br>
+<b>Command: git push</b><br>
+<em>In short: Pull/Push is for synchronization.</em>
 
-#### Merge (Birleştirme)
+#### Merge
 
-<p align="justify">İki dalı (branch) birleştirme işlemidir. Bir özellik branch'inde yapılan değişiklikleri ana dala (main) eklemek için. Bir repository üzerinde bulunan bir branch'in başka bir branch ile birleştirilme işlemidir.<br>
-<em>Kısacası: Merge birleştirme içindir.</em>
+<p align="justify">The process of combining two branches. To add changes made in a feature branch to the main branch. It is the process of merging one branch in a repository with another branch.<br>
+<em>In short: Merge is for combining.</em>
 
-#### Conflict (Çakışma)
+#### Conflict
 
-<p align="justify">Aynı dosyanın aynı satırında, farklı kişiler tarafından yapılan ve Git'in otomatik olarak birleştiremediği değişiklikler. Manuel olarak müdahale edip hangi değişikliklerin kalacağına karar vermeniz gerekir. Örneğin, iki kişi aynı Word belgesinin aynı yerini farklı şekilde düzenlerse çakışma olur.<br>
-<em>Kısacası: Conflict iki kodun çakışmasıdır çözülmesi gereken sorundur.</em>
+<p align="justify">Changes made by different people to the same line of the same file that Git cannot merge automatically. You must manually intervene and decide which changes to keep. For example, if two people edit the same part of the same Word document differently, a conflict occurs.<br>
+<em>In short: Conflict is a problem that needs to be solved when two codes clash.</em>
 
 #### Pull Request (PR) / Merge Request (MR)
 
-<p align="justify">Bir branch'deki değişiklikleri, ana branch'e birleştirme talebi göndermektir. Kod incelemesi (code review) yapılması, tartışılması ve test edilmesi için bir mekanizma sağlar. <br>
-<em>Kısacası: Pull Request ise iş birliği ve kalite kontrol mekanizmasıdır.</em>
+<p align="justify">It is a request to merge the changes in a branch into the main branch. It provides a mechanism for code review, discussion, and testing.  <br>
+<em>In short: Pull Request is a collaboration and quality control mechanism.</em>
 
 #### Stash (Geçici Saklama)
 
