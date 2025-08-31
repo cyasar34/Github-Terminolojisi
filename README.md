@@ -28,6 +28,15 @@
 
 <li align="justify"> <b>Açık Kaynak Katkı: </b> Dünyadaki en büyük yazılım projelerine katkıda bulunmanın en kolay yoludur. </li>
 
+### GitHub Terminolojisi
+
+#### Repository (Repo) / Depo
+
+<p align="justify">Projenizin tüm dosyalarının, klasör yapısının ve bu dosyalardaki tüm değişiklik geçmişinin (commit'lerin) saklandığı yerdir.
+<em>Projenizin için özel bir "klasör" ya da "proje dosyası" gibi düşünebilirsiniz.</em> Ancak bu klasör, dosyalarınızın yanı sıra yaptığınız her değişikliğin de kaydını tutan akıllı bir zaman makinesi gibidir.<br>
+Türleri:
+<li>Yerel (Local) Repo: Bilgisayarınızın hard disk'inde bulunur.</li>
+<li>Uzak (Remote) Repo: GitHub, GitLab gibi bir bulut sunucusunda bulunur.</li>
 
 
 ## GitHub Depolarının (Repository) Özellikleri:
