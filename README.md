@@ -8,9 +8,9 @@
 ### En Basit Haliyle: "Proje Dosyaları için Google Drive"
 
 <p align="justify">GitHub'ı, yazılım projelerinize özel bir Google Drive veya Dropbox gibi düşünebilirsiniz. Ancak çok daha akıllı ve güçlüdür:
-- Sadece dosyaları saklamaz, her değişikliğin geçmişini de kaydeder.
-- Aynı dosya üzerinde aynı anda çalışan insanların çakışmasını (conflict) yönetir.
-- Kodları incelemeye, hata bildirmeye, tartışmaya olanak tanır.
+<li>Sadece dosyaları saklamaz, her değişikliğin geçmişini de kaydeder.</li>
+<li>Aynı dosya üzerinde aynı anda çalışan insanların çakışmasını (conflict) yönetir.</li>
+<li>Kodları incelemeye, hata bildirmeye, tartışmaya olanak tanır.</li>
 
 
 
