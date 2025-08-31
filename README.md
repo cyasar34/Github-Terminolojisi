@@ -48,9 +48,21 @@ Bir ağacın ana gövdesi (main branch) vardır. Siz yeni bir özellik üzerinde
 #### Clone (Klonlama)
 
 <p align="justify">Bir uzak depoyu (örneğin, GitHub'daki bir projeyi) tüm versiyon geçmişiyle birlikte kendi bilgisayarınıza kopyalama işlemidir.
-<em> git clone "repo-url" komutuyla yapılır.</em><br>
+<em> git clone "repo-url" komutuyla yapılır.</em>
 Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<br>
 <em>Kısacası: Clone ile bilgisayarına indirirsin.</em>
+
+#### Fork (Çatallama)
+
+<p align="justify">Bir başkasının GitHub'daki reposunu kendi GitHub hesabınıza kopyalamaktır. GitHub arayüzündeki "Fork" butonuna tıklanarak yapılır. Bir belgeyi alıp "Farklı Kaydet" diyerek kendi adınızla kaydetmek gibidir. <br>
+<em>Kısacası: Fork ile GitHub hesabına kopyalarsın.</em>
+
+#### Main (Ana Dal)
+
+<p align="justify">Bir projedeki ana, kararlı ve çalışan sürümün bulunduğu varsayılan branch'tir (dal). Eskiden master olarak adlandırılırdı. <br>
+<em>Kısacası:Main projenin ana gövdesidir. </em>
+
+
 
 ## GitHub Depolarının (Repository) Özellikleri:
 <p align="justify">
