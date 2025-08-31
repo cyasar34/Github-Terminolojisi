@@ -1,0 +1,2 @@
+# Github-Terminolojisi
+Github Terminolojisi
