@@ -125,4 +125,134 @@ Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<b
 
 
 
+# GitHub Terminology
+
+## What is GitHub?
+<p align="justify"><b>Git,</b> is like a time machine that takes a “snapshot” (commit) of every stage of your project and allows you to return to those snapshots at any time.  <b>GitHub</b> is a social platform where you can upload these photo albums to the cloud, share them with others, and edit them together.</p>
+<p align="justify"><b>Git,</b> is a version control system. It runs on your local computer. It works via the command line.<br>
+<b>GitHub on the other hand,</b> is a service and website that allows you to store your Git repositories in the cloud (on the internet). In other words, it acts as a “host” for your Git repository.</p>
+
+### In a Nutshell: “Google Drive for Project Files”
+
+<p align="justify">Think of GitHub as a Google Drive or Dropbox specifically for your software projects. But it's much smarter and more powerful:
+<li>It doesn't just store files; it also records the history of every change.</li>
+<li>It manages conflicts when multiple people work on the same file at the same time.</li>
+<li>It allows you to review code, report bugs, and discuss issues.</li>
+
+### Why Should We Use GitHub?
+
+<li align="justify"><b> Secure Cloud Backup:</b> our code and all version history are stored in the cloud. Even if your computer crashes, your project is safe.</li>
+
+<li align="justify"><b> Time Machine:</b> You can revert your project to its previous state at any time and see who made what changes.</li>
+
+<li align="justify"><b> Easy Collaboration: </b> ou can work seamlessly with your teammates on the same project, at the same time, from anywhere in the world.</li>
+
+<li align="justify"><b> Project Management: </b> Everything is organized with task tracking (Issues), code review (Pull Request), and project boards (Projects).</li>
+
+<li align="justify"> <b> Automation (CI/CD): </b> When you submit your code, tests run automatically and are automatically deployed to the server.</li>
+
+<li align="justify"><b> Portfolio & CV:  </b> Your account is a live showcase of your skills for employers.</li>
+
+<li align="justify"> <b> Open Source Contributions: </b> It's the easiest way to contribute to the world's largest software projects. </li>
+
+### GitHub Terminology
+
+#### Repository (Repo)
+
+<p align="justify">This is where all your project files, folder structure, and the entire change history (commits) for these files are stored.
+<em>You can think of it as a special “folder” or “project file” for your project.</em> However, this folder is like a smart time machine that keeps track of every change you make, in addition to your files.<br>
+Types:
+<li>Local Repo: Located on your computer's hard drive.</li>
+<li>Remote Repo: Located on a cloud server such as GitHub or GitLab.</li><br>
+<em>In short: The repository is your entire project.</em>
+
+#### Branch
+
+<p align="justify"> A line that allows you to develop different versions or different features of your project independently and in parallel.<br> 
+A tree has a main trunk (main branch). When you start working on a new feature, you create a new branch from this trunk. You complete your work on the branch without disturbing the main trunk and without any risk. When you are done, you merge this branch back into the main trunk.<br>
+<em>In short: A branch is a parallel and independent workspace within your project.</em>
+
+#### Clone (Klonlama)
+
+<p align="justify">Bir uzak depoyu (örneğin, GitHub'daki bir projeyi) tüm versiyon geçmişiyle birlikte kendi bilgisayarınıza kopyalama işlemidir.
+<em> git clone "repo-url" komutuyla yapılır.</em>
+Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<br>
+<em>Kısacası: Clone ile bilgisayarına indirirsin.</em>
+
+#### Fork (Çatallama)
+
+<p align="justify">Bir başkasının GitHub'daki reposunu kendi GitHub hesabınıza kopyalamaktır. GitHub arayüzündeki "Fork" butonuna tıklanarak yapılır. Bir belgeyi alıp "Farklı Kaydet" diyerek kendi adınızla kaydetmek gibidir. <br>
+<em>Kısacası: Fork ile GitHub hesabına kopyalarsın.</em>
+
+#### Main (Ana Dal)
+
+<p align="justify">Bir projedeki ana, kararlı ve çalışan sürümün bulunduğu varsayılan branch'tir (dal). Eskiden master olarak adlandırılırdı. <br>
+<em>Kısacası:Main projenin ana gövdesidir. </em>
+
+#### Pull (Çekme)
+
+<p align="justify">Uzak depodaki (GitHub'daki) güncel değişiklikleri kendi yerel deponuza indirme işlemidir. Ekip çalışmasında, başkalarının yaptığı değişikliklerle yerel reponuzu güncel tutmak için.<br>
+<b>Komut: git pull</b><br>
+<em>Kısacası: Pull/Push senkronizasyon içindir.</em>
+
+#### Push (İtme)
+
+<p align="justify">Yerel deponuzdaki commit'leri uzak depoya (GitHub'a) gönderme işlemidir. Yaptığınız değişiklikleri diğer ekip üyeleriyle paylaşmak veya yedeklemek için.<br>
+<b>Komut: git push</b><br>
+<em>Kısacası: Pull/Push senkronizasyon içindir.</em>
+
+#### Merge (Birleştirme)
+
+<p align="justify">İki dalı (branch) birleştirme işlemidir. Bir özellik branch'inde yapılan değişiklikleri ana dala (main) eklemek için. Bir repository üzerinde bulunan bir branch'in başka bir branch ile birleştirilme işlemidir.<br>
+<em>Kısacası: Merge birleştirme içindir.</em>
+
+#### Conflict (Çakışma)
+
+<p align="justify">Aynı dosyanın aynı satırında, farklı kişiler tarafından yapılan ve Git'in otomatik olarak birleştiremediği değişiklikler. Manuel olarak müdahale edip hangi değişikliklerin kalacağına karar vermeniz gerekir. Örneğin, iki kişi aynı Word belgesinin aynı yerini farklı şekilde düzenlerse çakışma olur.<br>
+<em>Kısacası: Conflict iki kodun çakışmasıdır çözülmesi gereken sorundur.</em>
+
+#### Pull Request (PR) / Merge Request (MR)
+
+<p align="justify">Bir branch'deki değişiklikleri, ana branch'e birleştirme talebi göndermektir. Kod incelemesi (code review) yapılması, tartışılması ve test edilmesi için bir mekanizma sağlar. <br>
+<em>Kısacası: Pull Request ise iş birliği ve kalite kontrol mekanizmasıdır.</em>
+
+#### Stash (Geçici Saklama)
+
+<p align="justify">Henüz commit etmediğiniz değişiklikleri geçici olarak bir kenara saklamanızı sağlar. Aniden başka bir branch'e geçmeniz gerektiğinde veya acil bir düzeltme yapmanız gerektiğinde, yarım kalan işinizi kaybetmeden saklarsınız.<br>
+<b>Komutlar:
+<li>git stash → Değişiklikleri saklar.</li>
+<li>git stash pop → Saklanan değişiklikleri geri yükler.</li></b><br>
+<em>Kısacası: Stash askıya alma işlemidir.</em>
+
+#### Discard (Atma)
+
+<p align="justify">Commit edilmemiş değişiklikleri tamamen iptal etmek, dosyayı son commit haline geri döndürmek. Yaptığınız değişikliklerden memnun değilseniz ve baştan başlamak isterseniz.<br>
+<b>Komut: 
+<li>git restore "dosya-adi"</li>  
+<li>git checkout --"dosya-adi"</li></b><br>
+<em>Kısacası: Discard iptal etme işlemidir.</em>
+
+#### Remote (Uzak)
+
+<p align="justify">Projenizin bulut sunucusunda (örn. GitHub, GitLab) bulunan kopyası. Ekip çalışması, yedekleme ve projeyi dağıtım için merkezi bir depo görevi görür.<b>origin</b> genelde projenizin GitHub'daki ana uzak deposunu ifade eder.<br>
+<em>Kısacası: Remote bulut işlevi görür.</em>
+
+#### Local (Yerel)
+
+<p align="justify">Projenizin kendi bilgisayarınızda bulunan kopyası. Geliştirme yapmak, test etmek ve değişiklikleri commit etmek için kullanırsınız.<br>
+<em>Kısacası: Local sizin makineniz işlevi görür.</em>
+
+## Bu Github paylaşımının IEEE ve APA formatlarınada atıf verilme şekli:
+- IEEE--> C. Yasar, "GitHub-Terminolojisi" GitHub, [Online]. Erişim Linki: https://github.com/cyasar34/GitHub-Terminolojisi Son Erişim Tarihi: Gün Ay Yıl.
+- APA--> Yasar, C. (2024). GitHub-Terminolojisi[GitHub Deposu]. GitHub. Erişim Linki: https://github.com/cyasar34/GitHub-Terminolojisi Son Erişim Tarihi: Gün Ay Yıl.
+  
+> **Proje Durumu:** İlgili dokümanların paylaşımı ders kapsamında gerçekleştirilmiştir. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. <br>
+> **Katkıda Bulunma:** Dokümanlarınızda kullanılacaksanız ilgili atıf yöntemlerini kullanmanız ve haber vermeniz çok önemlidir. <br>
+> **Lisans:** MIT Lisansı altında yayımlandı.  
+
+
+
+
+
+
 
