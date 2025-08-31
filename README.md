@@ -37,6 +37,14 @@
 Türleri:
 <li>Yerel (Local) Repo: Bilgisayarınızın hard disk'inde bulunur.</li>
 <li>Uzak (Remote) Repo: GitHub, GitLab gibi bir bulut sunucusunda bulunur.</li>
+<em>Kısacası: Repository, projenizin tamamıdır.</em>
+
+#### Brach (Dal)
+
+<p align="justify"> Projenizin farklı versiyonlarını veya farklı özelliklerini birbirinden bağımsız ve paralel olarak geliştirmenizi sağlayan bir hat.<br> 
+Bir ağacın ana gövdesi (main branch) vardır. Siz yeni bir özellik üzerinde çalışmaya başladığınızda, bu gövdeden yeni bir dal (branch) oluşturursunuz. Ana gövdeyi bozmadan, risksiz bir şekilde daldaki çalışmanızı bitirirsiniz. İşiniz bittiğinde, bu dalı ana gövdeye birleştirirsiniz (merge).
+<em>Kısacası: Branch, projenizin içinde açılmış paralel ve bağımsız bir çalışma alanıdır.</em>
+
 
 
 ## GitHub Depolarının (Repository) Özellikleri:
