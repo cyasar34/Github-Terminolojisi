@@ -1,16 +1,16 @@
 # GitHub Terminalojisi
 
 ## GitHub Nedir?
-<p align="justify"><b>Git,</b> projenizin her aşamasının bir "fotoğrafını" (commit) çeken ve istediğiniz zaman o fotoğraflara dönebilmenizi sağlayan bir zaman makinesi gibidir. <b>GitHub</b>ise bu fotoğraf albümlerini buluta yükleyip başkalarıyla paylaşabildiğiniz, birlikte düzenleyebildiğiniz bir sosyal platformdur.</p><br>
+<p align="justify"><b>Git,</b> projenizin her aşamasının bir "fotoğrafını" (commit) çeken ve istediğiniz zaman o fotoğraflara dönebilmenizi sağlayan bir zaman makinesi gibidir. <b>GitHub</b> ise bu fotoğraf albümlerini buluta yükleyip başkalarıyla paylaşabildiğiniz, birlikte düzenleyebildiğiniz bir sosyal platformdur.</p><br>
 <p align="justify"><b>Git,</b> bir versiyon kontrol sistemidir. Yerel bilgisayarınızda çalışır. Komut satırıyla çalışır.<br>
 <b>GitHub ise,</b> bu Git depolarınızı (repository) bulutta (internet üzerinde) saklamanızı sağlayan bir hizmet ve web sitesidir. Yani Git reposu için bir "ev sahibi" (host) görevi görür.</p>
 
 ### En Basit Haliyle: "Proje Dosyaları için Google Drive"
 
 <p align="justify">GitHub'ı, yazılım projelerinize özel bir Google Drive veya Dropbox gibi düşünebilirsiniz. Ancak çok daha akıllı ve güçlüdür:
-- Sadece dosyaları saklamaz, her değişikliğin geçmişini de kaydeder.
-- Aynı dosya üzerinde aynı anda çalışan insanların çakışmasını (conflict) yönetir.
-- Kodları incelemeye, hata bildirmeye, tartışmaya olanak tanır.
+- **Sadece dosyaları saklamaz, her değişikliğin geçmişini de kaydeder.
+- **Aynı dosya üzerinde aynı anda çalışan insanların çakışmasını (conflict) yönetir.
+- **Kodları incelemeye, hata bildirmeye, tartışmaya olanak tanır.
 
 ## Git Nedir?
 - Bir bir versiyon kontrol sistemi VCS (Version Control System) yazılımıdır. Yani, yazılım projelerindeki dosya değişikliklerini takip etmenizi sağlar.
