@@ -65,11 +65,13 @@ Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<b
 #### Pull (Çekme)
 
 <p align="justify">Uzak depodaki (GitHub'daki) güncel değişiklikleri kendi yerel deponuza indirme işlemidir. Ekip çalışmasında, başkalarının yaptığı değişikliklerle yerel reponuzu güncel tutmak için.<br>
+<b>Komut: git pull</b><br>
 <em>Kısacası: Pull/Push senkronizasyon içindir.</em>
 
 #### Push (İtme)
 
 <p align="justify">Yerel deponuzdaki commit'leri uzak depoya (GitHub'a) gönderme işlemidir. Yaptığınız değişiklikleri diğer ekip üyeleriyle paylaşmak veya yedeklemek için.<br>
+<b>Komut: git push</b><br>
 <em>Kısacası: Pull/Push senkronizasyon içindir.</em>
 
 #### Merge (Birleştirme)
@@ -90,11 +92,17 @@ Bir dosyayı buluttan (Google Drive) kendi bilgisayarınıza indirmek gibidir.<b
 #### Stash (Geçici Saklama)
 
 <p align="justify">Henüz commit etmediğiniz değişiklikleri geçici olarak bir kenara saklamanızı sağlar. Aniden başka bir branch'e geçmeniz gerektiğinde veya acil bir düzeltme yapmanız gerektiğinde, yarım kalan işinizi kaybetmeden saklarsınız.<br>
+<b>Komutlar:
+<li>git stash → Değişiklikleri saklar.</li>
+<li>git stash pop → Saklanan değişiklikleri geri yükler.</li></b><br>
 <em>Kısacası: Stash askıya alma işlemidir.</em>
 
 #### Discard (Atma)
 
-<p align="justify">Commit edilmemiş değişiklikleri tamamen iptal etmek, dosyayı son commit haline geri döndürmek. Yaptığınız değişikliklerden memnun değilseniz ve baştan başlamak isterseniz.
+<p align="justify">Commit edilmemiş değişiklikleri tamamen iptal etmek, dosyayı son commit haline geri döndürmek. Yaptığınız değişikliklerden memnun değilseniz ve baştan başlamak isterseniz.<br>
+<b>Komut: 
+<li>git restore "dosya-adi"</li>  
+<li>git checkout --"dosya-adi"</li></b><br>
 <em>Kısacası: Discard iptal etme işlemidir.</em>
 
 #### Remote (Uzak)
