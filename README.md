@@ -246,9 +246,9 @@ It is similar to downloading a file from the cloud (Google Drive) to your own co
 - IEEE--> C. Yasar, "GitHub-Terminolojisi" GitHub, [Online]. Erişim Linki: https://github.com/cyasar34/GitHub-Terminolojisi Son Erişim Tarihi: Gün Ay Yıl.
 - APA--> Yasar, C. (2024). GitHub-Terminolojisi[GitHub Deposu]. GitHub. Erişim Linki: https://github.com/cyasar34/GitHub-Terminolojisi Son Erişim Tarihi: Gün Ay Yıl.
   
-> **Proje Durumu:** İlgili dokümanların paylaşımı ders kapsamında gerçekleştirilmiştir. GitHub bölümünden beğeni bildirimi olarak bir yıldız vererek çalışmalarımı destekleyebilirsiniz. <br>
-> **Katkıda Bulunma:** Dokümanlarınızda kullanılacaksanız ilgili atıf yöntemlerini kullanmanız ve haber vermeniz çok önemlidir. <br>
-> **Lisans:** MIT Lisansı altında yayımlandı.  
+> **Project Status:** The relevant documents have been shared as part of the course. You can support my work by giving it a star as a like notification on the GitHub section. <br>
+> **Contributions:** If you plan to use these documents, it is very important that you use the appropriate citation methods and notify me. <br>
+> **License:** Published under the MIT License.
 
 
 
